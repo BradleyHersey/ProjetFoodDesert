@@ -6,10 +6,14 @@
 #HomePage{
     background-image: url("../images/foodD1.jpg");
     background-size: cover;
+     background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 #aboutUs{
   background-image: url("../images/foodD4.jpg");
   background-size: cover;
+     background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 #Navbar{
     margin: 1% 1% 0% 1%;
