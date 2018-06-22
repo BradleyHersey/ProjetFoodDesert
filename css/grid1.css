@@ -9,6 +9,8 @@
 }
 body{
     background-image: url("../images/backgroundC.jpg");
+     background-repeat: no-repeat;
+    background-attachment: fixed;
    
 }
 /*Strip the ul of padding and list styling*/
